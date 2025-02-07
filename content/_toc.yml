@@ -17,6 +17,9 @@ parts:
   - file: notebooks/MetabolicBasis
   - file: notebooks/Populations
   - file: notebooks/Interactions
+  - file: notebooks/Hands_on_Evol_modelling_notebook1_2025
+  - file: notebooks/Hands_on_Evol_modelling_notebook2_2025
+  - file: notebooks/Hands_on_Gene_drive_notebook1_2025
   # - file: notebooks/Ecosystems
   # - file: notebooks/Space
   - file: references.md
